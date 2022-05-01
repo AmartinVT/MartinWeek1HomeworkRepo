@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -157,7 +156,5 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-=======
 # MartinWeek1HomeworkRepo
 Week 1 Homework due 5/2/22
->>>>>>> 10ce3842fb3309d6c39724866c7a36510456362e
