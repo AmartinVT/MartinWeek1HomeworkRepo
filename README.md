@@ -17,3 +17,6 @@ Link to GITHUB webpage: https://amartinvt.github.io/MartinWeek1HomeworkRepo/
 
 Screenshots of functioning webpage:
 
+![Top of Webpage](Screenshots/Screen Shot 2022-05-01 at 5.30.18 PM.png?raw=true)
+
+![Bottom of Webpage](Screenshots/Screen Shot 2022-05-01 at 5.30.43 PM.png?raw=true)
